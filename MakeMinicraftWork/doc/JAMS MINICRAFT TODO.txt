@@ -1,0 +1,12 @@
+Another timestampted shortcut to my 3:00:00 place in the Notch livestream vid:
+https://youtu.be/Ncn9nB7aQ0c?list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC&t=11077
+
+[] go home make spag bol
+[] maybe come back make grass pink?
+[] custom jim! hes a custom sprite version of the player guy
+[] make like another package where i just create a walking guy walks up down left right
+(movement code is actually in the world thing, i think,
+[] also figure out that terrain generation stuff maybe?
+[] Run Prelude of the Chambered?
+
+[] that really cool but also really boring thing where mr notch made a stable framerate and tickspeed with drawing pixels to the pixel buffer or somethiing making that matrix gradient pixel water type scrolling effect
